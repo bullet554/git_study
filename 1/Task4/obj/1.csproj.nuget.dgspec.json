@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task1\\Task1.csproj": {}
+    "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task4\\1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task1\\Task1.csproj": {
+    "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task4\\1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task1\\Task1.csproj",
-        "projectName": "Task1",
-        "projectPath": "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task4\\1.csproj",
+        "projectName": "1",
+        "projectPath": "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task4\\1.csproj",
         "packagesPath": "C:\\Users\\KarpovIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\KarpovIA\\desktop\\git\\1\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KarpovIA\\AppData\\Roaming\\NuGet\\NuGet.Config"

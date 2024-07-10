@@ -1,0 +1,14 @@
+C:\Users\KarpovIA\desktop\git\1\Task4\bin\Debug\net7.0\1.exe
+C:\Users\KarpovIA\desktop\git\1\Task4\bin\Debug\net7.0\1.deps.json
+C:\Users\KarpovIA\desktop\git\1\Task4\bin\Debug\net7.0\1.runtimeconfig.json
+C:\Users\KarpovIA\desktop\git\1\Task4\bin\Debug\net7.0\1.dll
+C:\Users\KarpovIA\desktop\git\1\Task4\bin\Debug\net7.0\1.pdb
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\1.AssemblyInfo.cs
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\1.dll
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\refint\1.dll
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\1.pdb
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\1.genruntimeconfig.cache
+C:\Users\KarpovIA\desktop\git\1\Task4\obj\Debug\net7.0\ref\1.dll
