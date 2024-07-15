@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KarpovIA\\Desktop\\Git\\1\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\KarpovIA\\Desktop\\Git\\01_CSHARP\\Lesson1\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\KarpovIA\\Desktop\\Git\\1\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\KarpovIA\\Desktop\\Git\\01_CSHARP\\Lesson1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\KarpovIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KarpovIA\\Desktop\\Git\\1\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\KarpovIA\\Desktop\\Git\\01_CSHARP\\Lesson1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KarpovIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
