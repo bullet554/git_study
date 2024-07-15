@@ -1,4 +1,70 @@
-*.obj
+# Игнорирование файлов и папок, созданных Visual Studio
+.vs/
+bin/
+obj/
+
+# Игнорирование файлов с расширением .dll и .exe
 *.dll
+*.exe
+
+# Игнорирование файлов, созданных компилятором C#
 *.pdb
-*.bin
+*.obj
+
+# Игнорирование файлов, созданных средой разработки Visual Studio
+*.user
+*.suo
+*.cache
+*.bak
+*.bak2
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+
+# Игнорирование папок, созданных средой разработки Visual Studio
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+_UpgradeReport_Files/
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Игнорирование файлов, созданных ReSharper
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Игнорирование файлов, созданных NuGet
+packages/
+
+# Игнорирование файлов, созданных MSBuild
+*.cache
+*.ilk
+*.log
+*.tlog
+*.vspscc
+*.xap
+*.xapdeploy
+*.publish.xml
+*.publish.htm
+*.publish.settings
+*.userprefs
+*.user
+
+# Игнорирование файлов, созданных Rider
+.idea/
+*.sln.iml
+
+# Игнорирование файлов, созданных Visual Studio Code
+.vscode/
+
+# Игнорирование файлов, созданных dotnet CLI
+*.dotnet-*
